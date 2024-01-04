@@ -1,12 +1,9 @@
-## Hi there 👋
+#### New Repository - Under Planning 
+## AlgoListed Application 
+### Features
 
-<!--
+**1. Job Openings Alerts:** 
+Receive instant pop-up notifications for new job openings that match your selected criteria. Customize your preferences to get relevant job alerts in real-time.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**2. Industry News Notifications:** 
+Stay informed about the latest happenings in your industry. Algolisted keeps you updated with important news that could impact your professional journey.
